@@ -1,5 +1,5 @@
 img {
    filter: drop-shadow(12px 12px 16px rgb(23, 52, 89));
-   max-width: 100%;
+   max-width: 30%;
    height: auto;
 }
