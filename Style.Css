@@ -1,5 +1,7 @@
-img {
-   filter: drop-shadow(12px 12px 16px rgb(23, 52, 89));
-   max-width: 30%;
+img h1 {
+   box-sizing: 10%;
+   color: blue;
+   max-width: 100%;
    height: auto;
+   width: auto;
 }
